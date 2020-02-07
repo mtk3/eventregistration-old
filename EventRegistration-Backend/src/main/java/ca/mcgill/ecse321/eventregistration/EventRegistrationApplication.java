@@ -1,5 +1,3 @@
-package ca.mcgill.ecse321.eventregistration;
-
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.SpringApplication;
 import org.springframework.web.bind.annotation.RestController;
